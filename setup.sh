@@ -4,6 +4,7 @@
 
 mkdir -p data reports src secrets
 
+echo ""
 echo "Directories confirmed: data, reports, src, secrets"
 
 # checking if transactions.csv file exists
@@ -13,3 +14,5 @@ if [ -f data/transactions.csv ]; then
 else
     echo "[WARNING]: 'transactions.csv' was not found, please add it before you can proceed."
 fi
+
+echo ""
