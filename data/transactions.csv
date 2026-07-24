@@ -1,0 +1,11 @@
+account_id,type,amount
+A100,deposit,500.00
+A100,withdraw,120.00
+A200,deposit,1000.00
+A200,withdraw,2500.00
+A100,withdraw,50.00
+A300,deposit,750.00
+A200,deposit,300.00
+A300,withdraw,800.00
+A100,deposit,200.00
+A300,withdraw,150.00
