@@ -11,6 +11,8 @@ My passing run of `quiz.sh` is included as `quiz_result.png`. It shows all
 **4 out of 4** answers with my Andrew ID visible in both
 the top and bottom banners.
 
+![Quiz Result](https://github.com/Ganza-Kevin-Murinda/msit-tartanbank-toolkit/blob/main/quiz_result.png)
+
 ## Which parts are Bash, and which are Python (and why)
 
 The **Bash** scripts handle everything to do with the environment and gluing tools
